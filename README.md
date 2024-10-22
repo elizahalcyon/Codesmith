@@ -1,1 +1,1 @@
-Homework assignments for Codesmith's JavaScript Basics class
+Homework assignments and challenges for Codesmith's JavaScript classes
